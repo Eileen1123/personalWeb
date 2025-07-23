@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -76,7 +76,7 @@
                 <h2 class="text-xl font-bold mb-4 flex items-center">
                     📸 我的靓照
                 </h2>
-                <img src="/Users/lingyizhu/Downloads/1df1094db53926191f52bd3f9929b6f7.JPG" 
+                <img src="/Users/lingyizhu/Downloads/WechatIMG221.jpg" 
                      alt="我的照片" 
                      class="rounded-lg mx-auto object-cover w-full h-96">
             </div>
@@ -89,7 +89,7 @@
                     🍖 我的美食最爱
                 </h2>
                 <div class="flex flex-col items-center">
-                    <img src="https://nocode.meituan.com/photo/search?keyword=bbq&width=600&height=400" 
+                    <img src="/Users/lingyizhu/Downloads/BBQ.jpg" 
                          alt="最爱的烤肉" 
                          class="rounded-lg mx-auto object-cover w-full h-64 mb-4">
                     <p class="text-lg text-center">
@@ -106,7 +106,7 @@
                     🎮 学习之余，我最大的爱好是...
                 </h2>
                 <div class="flex flex-col md:flex-row items-center gap-8">
-                    <img src="https://nocode.meituan.com/photo/search?keyword=gaming&width=600&height=400" 
+                    <img src="/Users/lingyizhu/Downloads/Gaming.jpg" 
                          alt="我的爱好" 
                          class="rounded-lg mx-auto object-cover w-full md:w-1/2 h-64">
                     <div class="text-lg md:text-xl">
