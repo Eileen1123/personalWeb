@@ -76,7 +76,7 @@
                 <h2 class="text-xl font-bold mb-4 flex items-center">
                     📸 我的靓照
                 </h2>
-                <img src="WechatIMG221.jpg" alt="个人照" class="rounded-lg mx-auto w-full h-64 object-contain mb-4">
+                <img src="WechatIMG221.jpg" alt="个人照" class="rounded-lg mx-auto w-full object-contain mb-4">
 
             </div>
         </div>
