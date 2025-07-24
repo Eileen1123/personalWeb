@@ -144,7 +144,7 @@
                     <h2 class="text-xl font-bold mb-4 flex items-center">
                         🤫 我的隐藏技能
                     </h2>
-                    <p class="text-lg text-gray-600"></p>
+                    <p class="text-lg text-gray-600">🧠大脑一片空白——</p>
                 </div>
             </div>
         </div>
